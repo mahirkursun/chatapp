@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development,  and a full API reference.
 
 
-<table border="2" align="center">
+<table border="2" align="center"> 
   <tr>
     <td><img src="https://github.com/mahirkursun/chatapp/blob/main/images/chatapp1.gif"  /></td>
   
