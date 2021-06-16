@@ -25,7 +25,7 @@ samples, guidance on mobile development,  and a full API reference.
     <td><br/></td>
 
   </tr>
-  <tr>
+  <tr> 
     <td><img src="https://github.com/mahirkursun/chatapp/blob/main/images/chatapp2.gif"/></td>
 
   </tr>
